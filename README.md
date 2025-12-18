@@ -7,6 +7,7 @@ O projeto simula um **backend de e-commerce**, incluindo autenticação de usuá
 ---
 
 # Tecnologias utilizadas
+
 - Python
 - Flask
 - Flask-SQLAlchemy
@@ -17,7 +18,7 @@ O projeto simula um **backend de e-commerce**, incluindo autenticação de usuá
 
 ---
 
-Funcionalidades
+# Funcionalidades
 
 # Autenticação
 - Login de usuário
